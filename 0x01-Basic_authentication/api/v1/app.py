@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-    HTTP status code for a request unauthorized? 401 of course!
+Route module for the API
 """
 import os
 from os import getenv
